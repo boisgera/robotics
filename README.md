@@ -35,7 +35,6 @@ It is sometimes necessary to use wheels that do not have this unfortunate effect
 
 - [![youtube] Swedish Wheels Demo](https://www.youtube.com/watch?v=Ne09Y72zW_Y)
 
-
 ## Control Theory
 
 - [![GitHub] Control Engineering with Python](https://github.com/boisgera/control-engineering-with-python)
@@ -56,7 +55,7 @@ Some older ISIA[^ISIA] courses (in French).
 
 [HTML]: https://api.iconify.design/logos/html-5.svg
 
-[PDF]: https://api.iconify.design/vscode-icons/file-type-pdf2.svg
+[PDF]: https://api.iconify.design/prime/file-pdf.svg <!-- https://api.iconify.design/vscode-icons/file-type-pdf2.svg -->
 
 [GitHub]: https://api.iconify.design/mdi/github.svg
 
