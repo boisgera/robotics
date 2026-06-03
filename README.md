@@ -40,6 +40,7 @@ Two examples are [*caster wheels*](https://en.wikipedia.org/wiki/Caster) and
 
 - [![youtube] Swedish Wheels Demo](https://www.youtube.com/watch?v=Ne09Y72zW_Y)
 
+
 Control Systems
 --------------------------------------------------------------------------------
 
@@ -56,6 +57,13 @@ Some older courses:
 - [![PDF] L'Approche Fréquentielle ![FR]](documents/L'Approche%20Fréquentielle.pdf)
 
 - [![PDF] Introduction aux Systèmes à Temps Discret ![FR]](documents/Introduction%20aux%20Systèmes%20à%20Temps%20Discret.pdf)
+
+
+2D & 3D Robot Visualization 
+--------------------------------------------------------------------------------
+
+- [![GitHub] pygfx demo](https://github.com/boisgera/pygfx-demo)
+
 
 <!--
 ## Free Resources
