@@ -1,8 +1,8 @@
 # Robotics
 
-![Robotics][https://img.shields.io/badge/Robotics-5A7DB8.svg]
-![Mechanics][https://img.shields.io/badge/Mechanics-D4625A.svg]
-![Control][https://img.shields.io/badge/Control-5A9E6E.svg]
+![Robotics](https://img.shields.io/badge/Robotics-5A7DB8.svg)
+![Mechanics](https://img.shields.io/badge/Mechanics-D4625A.svg)
+![Control](https://img.shields.io/badge/Control-5A9E6E.svg)
 
 Open educational resources covering Robotics, Mechanical Engineering, 
 and Control Engineering.
