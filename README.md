@@ -1,15 +1,11 @@
----
-title: Robotics
-author:
-  - "[Sébastien Boisgérault](mailto:Sebastien.Boisgerault@mines-paristech.fr), MINES ParisTech"
----
+# Robotics
 
-A mix of mechanical engineering and control theory.
 
-Presentations & Lecture Notes
+
+Slide Decks & Lecture Notes
 --------------------------------------------------------------------------------
 
-Slide decks of MAREVA[^MAREVA] courses:
+- [![PDF] Robots mobiles à roues ![FR]](documents/Robots%20Mobiles.pdf)
 
 - [![PDF] Elements of Lagrangian Mechanics - Applications to Mobile Robotics](documents/Elements%20of%20Lagrangian%20Mechanics%20-%20Applications%20to%20Mobile%20Robots.pdf)
   
@@ -42,7 +38,6 @@ Control Theory
 
 Some older ISIA[^ISIA] courses (in French).
 
-- **Robots Mobiles** — [PDF](documents/Robots%20Mobiles.pdf)
 - **Représentation d'Etat des Systèmes Linéaires** — [PDF](documents/Représentation%20d'Etat%20des%20Systèmes%20Linéaires.pdf)
 - **Automatique et Calcul de Fourier-Laplace** — [PDF](documents/Automatique%20et%20Calcul%20de%20Fourier-Laplace.pdf)
 - **L'Approche Fréquentielle** — [PDF](documents/L'Approche%20Fréquentielle.pdf)
@@ -64,7 +59,8 @@ Some older ISIA[^ISIA] courses (in French).
 
 [youtube]: https://api.iconify.design/mdi/youtube.svg
 
+<!--
 [^MAREVA]: MAREVA is the Applied Mathematics Minor of MINES ParisTech "Master's in Science and Executive Engineering" degree.
 
 [^ISIA]: ISIA was a post-graduate education program of MINES ParisTech dedicated to control theory and computer science.
-
+-->
