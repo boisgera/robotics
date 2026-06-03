@@ -12,9 +12,9 @@ Slide decks of MAREVA[^MAREVA] courses:
 
 - [![PDF] Elements of Lagrangian Mechanics - Applications to Mobile Robotics](documents/Elements%20of%20Lagrangian%20Mechanics%20-%20Applications%20to%20Mobile%20Robots.pdf)
   
-- [[!PDF]🇫🇷 Typologie des Robots Mobiles](documents/Typologie%20des%20Robots%20Mobiles.pdf)
+- [![PDF]🇫🇷 Typologie des Robots Mobiles](documents/Typologie%20des%20Robots%20Mobiles.pdf)
 
-- [[!PDF] Coriolis and Centrifugal Forces](documents/Coriolis%20and%20Centrifugal%20Forces)
+- [![PDF] Coriolis and Centrifugal Forces](documents/Coriolis%20and%20Centrifugal%20Forces)
 
 
 ## On Wheels
@@ -54,7 +54,7 @@ Some older ISIA[^ISIA] courses (in French).
 
 [PDF]: https://api.iconify.design/vscode-icons/file-type-pdf2.svg
 
-[GitHub]: https://api.iconify.design/mdi/github
+[GitHub]: https://api.iconify.design/mdi/github.svg
 
 [^MAREVA]: MAREVA is the Applied Mathematics Minor of MINES ParisTech "Master's in Science and Executive Engineering" degree.
 
