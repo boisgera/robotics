@@ -39,16 +39,17 @@ It is sometimes necessary to use wheels that do not have this unfortunate effect
 
 Some older ISIA[^ISIA] courses (in French).
 
-- **Robots Mobiles** — [PDF](documents/Robots%Mobiles.pdf)
+- **Robots Mobiles** — [PDF](documents/Robots%20Mobiles.pdf)
 - **Représentation d'Etat des Systèmes Linéaires** — [PDF](documents/Représentation%20d'Etat%20des%20Systèmes%20Linéaires.pdf)
 - **Automatique et Calcul de Fourier-Laplace** — [PDF](documents/Automatique%20et%20Calcul%20de%20Fourier-Laplace.pdf)
 - **L'Approche Fréquentielle** — [PDF](documents/L'Approche%20Fréquentielle.pdf)
 - **Introduction aux Systèmes à Temps Discret** — [PDF](documents/Introduction%20aux%20Systèmes%20à%20Temps%20Discret.pdf)
 
+<!--
 ## Free Resources
 
 - **Lagrangian Dynamics** by [Miloš Žefran](http://robotics.ece.uic.edu/index.php/people/faculty/milos-zefran) and [Francesco Bullo](http://motion.me.ucsb.edu/) — [PDF](documents/Zefran, Bullo - Lagrangian Dynamics.pdf)
-
+-->
 
 [HTML]: https://api.iconify.design/logos/html-5.svg
 
