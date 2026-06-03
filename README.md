@@ -55,7 +55,7 @@ Some older ISIA[^ISIA] courses (in French).
 
 [HTML]: https://api.iconify.design/logos/html-5.svg
 
-[PDF]: https://api.iconify.design/prime/file-pdf.svg <!-- https://api.iconify.design/vscode-icons/file-type-pdf2.svg -->
+[PDF]: https://api.iconify.design/prime/file-pdf.svg 
 
 [GitHub]: https://api.iconify.design/mdi/github.svg
 
