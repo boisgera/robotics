@@ -66,10 +66,10 @@ Some older courses.
 [youtube]: https://api.iconify.design/mdi/youtube.svg
 
 
+[^ISIA]: ISIA is a post-graduate education program of Mines Paris dedicated to control theory and computer science.
+
 [^MAREVA]: MAREVA is the Applied Mathematics Minor of Mines Paris "Master's in Science and Executive Engineering" degree.
 
-[^ISIA]: ISIA was a post-graduate education program of Mines Paris dedicated to control theory and computer science.
+[^EMINES]: EMINES – School of Industrial Management – is an engineering and management school located at the OCP Group's industrial site in Ben Guerir, Morocco, part of Mohammed VI Polytechnic University (UM6P).
 
 [^EMSST]: The Higher Scientific and Technical Military Education (EMSST) is a French military training institution. It is the highest military establishment for technical and scientific training in the Army, with courses addressed to selected senior officers.
-
-[^EMINES]: EMINES – School of Industrial Management – is an engineering and management school located at the OCP Group's industrial site in Ben Guerir, Morocco, part of Mohammed VI Polytechnic University (UM6P).
