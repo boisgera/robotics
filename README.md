@@ -12,8 +12,8 @@ Slides for some MAREVA[^MAREVA] courses.
 
 - **Elements of Lagrangian Mechanics - Applications to Mobile Robotics** 
 
-
-  [PDF](documents/Elements of Lagrangian Mechanics - Applications to Mobile Robots.pdf)
+  [PDF](documents/Elements%20of%20Lagrangian%20Mechanics%20-%20Applications%20to%20Mobile%20Robots.pdf)
+  
 
 - **Typologie des Robots Mobiles (in French)** — [PDF](documents/Typologie des Robots Mobiles.pdf)
 - **Coriolis and Centrifugal Forces** — [HTML](Coriolis and Centrifugal Forces) / [PDF](Coriolis and Centrifugal Forces/Coriolis and Centrifugal Forces.pdf)
