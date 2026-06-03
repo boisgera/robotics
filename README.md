@@ -4,6 +4,8 @@
 ![Mechanics](https://img.shields.io/badge/Mechanics-D4625A.svg)
 ![Control](https://img.shields.io/badge/Control-5A9E6E.svg)
 
+![Mobile robot][images/robot.jpg]
+
 Open educational resources covering Robotics, Mechanical Engineering, 
 and Control Engineering.
 
