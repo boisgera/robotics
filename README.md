@@ -1,6 +1,6 @@
 # Robotics
 
-
+Open educational ressources for [^ISIA], [^MAREVA] and [^EMSST] courses.
 
 Slide Decks & Lecture Notes
 --------------------------------------------------------------------------------
@@ -34,9 +34,11 @@ It is sometimes necessary to use wheels that do not have this unfortunate effect
 Control Theory
 --------------------------------------------------------------------------------
 
+A modern take on control engineering:
+
 - [![GitHub] Control Engineering with Python](https://github.com/boisgera/control-engineering-with-python)
 
-Some older ISIA[^ISIA] courses (in French).
+Some older courses.
 
 - **Représentation d'Etat des Systèmes Linéaires** — [PDF](documents/Représentation%20d'Etat%20des%20Systèmes%20Linéaires.pdf)
 - **Automatique et Calcul de Fourier-Laplace** — [PDF](documents/Automatique%20et%20Calcul%20de%20Fourier-Laplace.pdf)
@@ -59,8 +61,9 @@ Some older ISIA[^ISIA] courses (in French).
 
 [youtube]: https://api.iconify.design/mdi/youtube.svg
 
-<!--
+
 [^MAREVA]: MAREVA is the Applied Mathematics Minor of MINES ParisTech "Master's in Science and Executive Engineering" degree.
 
 [^ISIA]: ISIA was a post-graduate education program of MINES ParisTech dedicated to control theory and computer science.
--->
+
+[^EMSST]: The Higher Scientific and Technical Military Education (EMSST) is a French military training institution. It is the highest military establishment for technical and scientific training in the Army, with courses addressed to selected senior officers.
