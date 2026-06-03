@@ -6,7 +6,8 @@ author:
 
 A mix of mechanical engineering and control theory.
 
-## Presentations & Lecture Notes
+Presentations & Lecture Notes
+--------------------------------------------------------------------------------
 
 Slide decks of MAREVA[^MAREVA] courses:
 
@@ -17,7 +18,8 @@ Slide decks of MAREVA[^MAREVA] courses:
 - [![PDF] Coriolis and Centrifugal Forces](documents/Coriolis%20and%20Centrifugal%20Forces)
 
 
-## On Wheels
+About Wheels
+--------------------------------------------------------------------------------
 
 The only wheels considered in the document [Elements of Lagrangian Mechanics - Applications to Mobile Robotics](http://eul.ink/robotics/documents/Elements%20of%20Lagrangian%20Mechanics%20-%20Applications%20to%20Mobile%20Robots.pdf) are either fixed or orientable with a swivel axis that goes through the wheel center. Why? Because these wheels add kinematics constraints to the mobile robot and restrict its possible trajectories.
 
@@ -25,17 +27,16 @@ It is sometimes necessary to use wheels that do not have this unfortunate effect
 
 ### Caster Wheels
 
-- **Kinematics of Caster Wheels** — [HTML](Kinematics of Caster Wheels/index.html) / [PDF](Kinematics of Caster Wheels/Kinematics of Caster Wheels.pdf) / [ZIP](Kinematics of Caster Wheels/Kinematics of Caster Wheels.zip) / [Bitbucket](https://bitbucket.org/boisgera/kinematics-of-caster-wheels)
+- [![PDF] Kinematics of Caster Wheels](documents/Kinematics%20of%20Caster%20Wheels.pdf)
 
-- **Caster Wheel Interactive Demo** — [HTML](caster-wheel-demo/index.html)
-
-[Caster Wheel Demo (YouTube)](https://www.youtube.com/watch?v=wECcwlY0hOs)
+- [![youtube] Caster Wheel Demo](https://www.youtube.com/watch?v=wECcwlY0hOs)
 
 ### Swedish Wheels
 
 - [![youtube] Swedish Wheels Demo](https://www.youtube.com/watch?v=Ne09Y72zW_Y)
 
-## Control Theory
+Control Theory
+--------------------------------------------------------------------------------
 
 - [![GitHub] Control Engineering with Python](https://github.com/boisgera/control-engineering-with-python)
 
