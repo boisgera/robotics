@@ -8,11 +8,9 @@ A mix of mechanical engineering and control theory.
 
 ## Presentations & Lecture Notes
 
-Slides for some MAREVA[^MAREVA] courses.
+Slide deck of MAREVA[^MAREVA] courses:
 
-- **Elements of Lagrangian Mechanics - Applications to Mobile Robotics** 
-
-  [PDF](documents/Elements%20of%20Lagrangian%20Mechanics%20-%20Applications%20to%20Mobile%20Robots.pdf)
+- [![PDF] Elements of Lagrangian Mechanics - Applications to Mobile Robotics](documents/Elements%20of%20Lagrangian%20Mechanics%20-%20Applications%20to%20Mobile%20Robots.pdf)
   
 
 - **Typologie des Robots Mobiles (in French)** — [PDF](documents/Typologie des Robots Mobiles.pdf)
@@ -47,6 +45,12 @@ Some ISIA[^ISIA] courses (in French).
 
 - **Lagrangian Dynamics** by [Miloš Žefran](http://robotics.ece.uic.edu/index.php/people/faculty/milos-zefran) and [Francesco Bullo](http://motion.me.ucsb.edu/) — [PDF](documents/Zefran, Bullo - Lagrangian Dynamics.pdf)
 
+
+[HTML]: https://api.iconify.design/logos/html-5.svg
+
+[PDF]: https://api.iconify.design/vscode-icons/file-type-pdf2.svg
+
 [^MAREVA]: MAREVA is the Applied Mathematics Minor of MINES ParisTech "Master's in Science and Executive Engineering" degree.
 
 [^ISIA]: ISIA was a post-graduate education program of MINES ParisTech dedicated to control theory and computer science.
+
