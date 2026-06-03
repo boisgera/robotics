@@ -1,6 +1,9 @@
 # Robotics
 
-Open educational ressources used by [^ISIA], [^MAREVA], [^EMINES] and [^EMSST].
+Open educational resources covering Robotics, Mechanical Engineering, 
+and Control Engineering used by ISIA[^ISIA], MAREVA[^MAREVA], 
+EMINES[^EMINES] and EMSST[^EMSST].
+
 
 Slide Decks & Lecture Notes
 --------------------------------------------------------------------------------
