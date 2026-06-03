@@ -1,6 +1,6 @@
 # Robotics
 
-Open educational ressources for [^ISIA], [^MAREVA] and [^EMSST] courses.
+Open educational ressources used by [^ISIA], [^MAREVA], [^EMINES] and [^EMSST].
 
 Slide Decks & Lecture Notes
 --------------------------------------------------------------------------------
@@ -67,3 +67,5 @@ Some older courses.
 [^ISIA]: ISIA was a post-graduate education program of MINES ParisTech dedicated to control theory and computer science.
 
 [^EMSST]: The Higher Scientific and Technical Military Education (EMSST) is a French military training institution. It is the highest military establishment for technical and scientific training in the Army, with courses addressed to selected senior officers.
+
+[^EMINES]: Claude responded: EMINES – School of Industrial Management – is an engineering and management school located at the OCP Group's industrial site in Ben Guerir, Morocco.EMINES – School of Industrial Management – is an engineering and management school located at the OCP Group's industrial site in Ben Guerir, Morocco. It is part of Mohammed VI Polytechnic University (UM6P) and focuses on training engineers and managers for the industrial sector, with a particular emphasis on mining, energy, and sustainable development.
