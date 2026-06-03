@@ -21,9 +21,13 @@ Slide Decks & Lecture Notes
 About Wheels
 --------------------------------------------------------------------------------
 
-The only wheels considered in the document [Elements of Lagrangian Mechanics - Applications to Mobile Robotics](http://eul.ink/robotics/documents/Elements%20of%20Lagrangian%20Mechanics%20-%20Applications%20to%20Mobile%20Robots.pdf) are either fixed or orientable with a swivel axis that goes through the wheel center. Why? Because these wheels add kinematics constraints to the mobile robot and restrict its possible trajectories.
+The only wheels considered in the above documents are either fixed, 
+or orientable with a swivel axis that passes through the wheel center. 
+They both add kinematic constraints to the mobile robot.
 
-It is sometimes necessary to use wheels that do not have this unfortunate effect; this is for example mandatory to design omnidirectional robots. Two example categories are [*caster wheels*](https://en.wikipedia.org/wiki/Caster) and [*swedish (or Mecanum) wheels*](https://en.wikipedia.org/wiki/Mecanum_wheel):
+It is sometimes necessary to use wheels that do not have this undesirable property; 
+this is for example mandatory to design omnidirectional robots. 
+Two examples are [*caster wheels*](https://en.wikipedia.org/wiki/Caster) and [*swedish (or Mecanum) wheels*](https://en.wikipedia.org/wiki/Mecanum_wheel):
 
 ### Caster Wheels
 
