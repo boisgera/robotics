@@ -27,7 +27,8 @@ They both add kinematic constraints to the mobile robot.
 
 It is sometimes necessary to use wheels that do not have this undesirable property; 
 this is for example mandatory to design omnidirectional robots. 
-Two examples are [*caster wheels*](https://en.wikipedia.org/wiki/Caster) and [*swedish (or Mecanum) wheels*](https://en.wikipedia.org/wiki/Mecanum_wheel):
+Two examples are [*caster wheels*](https://en.wikipedia.org/wiki/Caster) and 
+[*swedish wheels*](https://en.wikipedia.org/wiki/Mecanum_wheel).
 
 ### Caster Wheels
 
