@@ -71,6 +71,11 @@ Some older courses:
 - [![GitHub] pygfx demo](https://github.com/boisgera/pygfx-demo)
 
 
+Hamiltonian Mechanics
+--------------------------------------------------------------------------------
+
+- [![Github] Hamiltionian Mechanics & Pytorch](https://github.com/boisgera/hamiltonian-mechanics)
+
 <!--
 ## Free Resources
 
