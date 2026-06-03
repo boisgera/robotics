@@ -35,19 +35,22 @@ It is sometimes necessary to use wheels that do not have this unfortunate effect
 
 - [![youtube] Swedish Wheels Demo](https://www.youtube.com/watch?v=Ne09Y72zW_Y)
 
-Control Theory
+Control Systems
 --------------------------------------------------------------------------------
 
 A modern take on control engineering:
 
 - [![GitHub] Control Engineering with Python](https://github.com/boisgera/control-engineering-with-python)
 
-Some older courses.
+Some older courses:
 
-- **Représentation d'Etat des Systèmes Linéaires** — [PDF](documents/Représentation%20d'Etat%20des%20Systèmes%20Linéaires.pdf)
-- **Automatique et Calcul de Fourier-Laplace** — [PDF](documents/Automatique%20et%20Calcul%20de%20Fourier-Laplace.pdf)
-- **L'Approche Fréquentielle** — [PDF](documents/L'Approche%20Fréquentielle.pdf)
-- **Introduction aux Systèmes à Temps Discret** — [PDF](documents/Introduction%20aux%20Systèmes%20à%20Temps%20Discret.pdf)
+- [![PDF] Représentation d'Etat des Systèmes Linéaires ![FR]](documents/Représentation%20d'Etat%20des%20Systèmes%20Linéaires.pdf)
+
+- [![PDF] Automatique et Calcul de Fourier-Laplace** ![FR]](documents/Automatique%20et%20Calcul%20de%20Fourier-Laplace.pdf)
+
+- [![PDF] L'Approche Fréquentielle ![FR]](documents/L'Approche%20Fréquentielle.pdf)
+
+- [![PDF] Introduction aux Systèmes à Temps Discret ![FR]](documents/Introduction%20aux%20Systèmes%20à%20Temps%20Discret.pdf)
 
 <!--
 ## Free Resources
