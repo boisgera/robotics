@@ -46,7 +46,7 @@ Some older courses:
 
 - [![PDF] Représentation d'Etat des Systèmes Linéaires ![FR]](documents/Représentation%20d'Etat%20des%20Systèmes%20Linéaires.pdf)
 
-- [![PDF] Automatique et Calcul de Fourier-Laplace** ![FR]](documents/Automatique%20et%20Calcul%20de%20Fourier-Laplace.pdf)
+- [![PDF] Automatique et Calcul de Fourier-Laplace ![FR]](documents/Automatique%20et%20Calcul%20de%20Fourier-Laplace.pdf)
 
 - [![PDF] L'Approche Fréquentielle ![FR]](documents/L'Approche%20Fréquentielle.pdf)
 
