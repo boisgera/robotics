@@ -23,15 +23,18 @@ The only wheels considered in the document [Elements of Lagrangian Mechanics - A
 
 It is sometimes necessary to use wheels that do not have this unfortunate effect; this is for example mandatory to design omnidirectional robots. Two example categories are [*caster wheels*](https://en.wikipedia.org/wiki/Caster) and [*swedish (or Mecanum) wheels*](https://en.wikipedia.org/wiki/Mecanum_wheel):
 
+### Caster Wheels
+
 - **Kinematics of Caster Wheels** — [HTML](Kinematics of Caster Wheels/index.html) / [PDF](Kinematics of Caster Wheels/Kinematics of Caster Wheels.pdf) / [ZIP](Kinematics of Caster Wheels/Kinematics of Caster Wheels.zip) / [Bitbucket](https://bitbucket.org/boisgera/kinematics-of-caster-wheels)
 
 - **Caster Wheel Interactive Demo** — [HTML](caster-wheel-demo/index.html)
 
 [Caster Wheel Demo (YouTube)](https://www.youtube.com/watch?v=wECcwlY0hOs)
 
-**Swedish Wheels**
+### Swedish Wheels
 
-[Swedish Wheels Demo (YouTube)](https://www.youtube.com/watch?v=Ne09Y72zW_Y)
+- [![youtube] Swedish Wheels Demo](https://www.youtube.com/watch?v=Ne09Y72zW_Y)
+
 
 ## Control Theory
 
@@ -58,6 +61,8 @@ Some older ISIA[^ISIA] courses (in French).
 [GitHub]: https://api.iconify.design/mdi/github.svg
 
 [FR]: https://api.iconify.design/openmoji/flag-france.svg
+
+[youtube]: https://api.iconify.design/mdi/youtube.svg
 
 [^MAREVA]: MAREVA is the Applied Mathematics Minor of MINES ParisTech "Master's in Science and Executive Engineering" degree.
 
