@@ -74,7 +74,7 @@ Some older courses:
 Hamiltonian Mechanics
 --------------------------------------------------------------------------------
 
-- [![Github] Hamiltonian Mechanics & Pytorch](https://github.com/boisgera/hamiltonian-mechanics)
+- [![Github] Hamiltonian Mechanics & Pytorch](./hamiltonian-mechanics)
 
 <!--
 ## Free Resources
